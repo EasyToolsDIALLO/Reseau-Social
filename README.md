@@ -2,7 +2,7 @@
 
 ## This website is building with reactJS and Sanity studio in backend to handle our data(images,features...)
 ## Our frontend get data from the backend by using the query language GROQ
-## We use authentication by google with firebase
+## We have used firebase to handle authentication by google
 
 # Getting Started with Create React App
 
