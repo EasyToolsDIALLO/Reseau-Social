@@ -1,3 +1,9 @@
+# We have done 55% of the work we purpose to do
+
+## This website is building with reactJS and Sanity studio in backend to handle our data(images,features...)
+## Our frontend get data from the backend by using the query language GROQ
+## We use authentication by google with firebase
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
